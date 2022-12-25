@@ -1,2 +1,2 @@
 # NvChadCustom
-My custom configurations for NvChad
+My custom configurations for NvChad https://nvchad.com/config/Walkthrough
